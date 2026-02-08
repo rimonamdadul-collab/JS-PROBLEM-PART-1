@@ -9,5 +9,6 @@ for (const items of arry){
 }
 return unique
 }
-const dulicet = noduplicet(number)
+const dulicet = noduplicet(biryani)
 console.log(dulicet)
+// no copy
